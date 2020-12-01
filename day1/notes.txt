@@ -1,0 +1,2 @@
+Im pretty proud of my solution to part 1. But I got pretty stumped with part 2 trying to find an elegant solution that doesnt use nested loops. In the end I looked at some suggestions on similar problems and the itertools library came up a few times and gave that a go. Next time ill have this library in my tool belt to start.
+
