@@ -1,0 +1,1 @@
+This repo is to track my work on the Advent of Coding Challenge. Mainly ill be using this to learn some python scripting.
