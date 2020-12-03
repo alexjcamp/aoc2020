@@ -1,0 +1,3 @@
+This was the off by one challenge for me.
+Part 1 I ran into an off by one error which I fixed after getting told i put in the wrong answer.
+Part 2 I got punished by my assumption that we will always start by counting our initial position causeing an off by one error, in the end i found that starting from the first check was the key to the right answer.
